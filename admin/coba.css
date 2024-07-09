@@ -1,0 +1,29 @@
+.expt {
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    border-style: hidden;
+}
+
+.ctk {
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    border-style: hidden;
+
+}
+
+.ctk:hover {
+    color: white;
+}
+
+.tmbh {
+    margin-bottom: 1rem;
+    border-style: hidden;
+}
+
+.edt{
+    border-style: none;
+}
+
+.hps {
+    border-style: none;
+}
